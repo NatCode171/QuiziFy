@@ -72,7 +72,7 @@ def setup():
         variables = {"vid_name": 1}
 
     # On choisit le nombre de questions
-    random.choice([2, 3, 5, 6, 8, 10])
+    quest_nb = random.choice([2, 3, 5, 6, 8, 10])
     print(f"Nombre de questions : {quest_nb}")
 
     return variables.get("vid_name", 1), quest_nb
