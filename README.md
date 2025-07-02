@@ -68,7 +68,6 @@ Projet personnel – libre d’utilisation et de modification.
 
 ---
 
-## 👤 Auteur
+## Auteur
 
-Créé par **[NatCode](https://www.youtube.com/@NatCode171)**  
-Chaîne dédiée au codage, à l'automatisation et à la créativité numérique.
+Créé par **[NatCode](https://www.youtube.com/@NatCode)**
