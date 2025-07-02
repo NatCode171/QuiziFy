@@ -45,6 +45,8 @@ QuiziFy/
 * J'ai fait une vidéo qui explique comment tout mettre en place de A à Z :
   - **Vidéo :** `Vidéo indisponible pour le moment, revenez dans quelques jours...`
 
+---
+
 ## Installation
 
 1. **Pré-requis** :
