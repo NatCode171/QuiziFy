@@ -1,0 +1,52 @@
+{
+  "API_KEY": [
+    "your API KEY",
+    "API KEY 2",
+    "etc...."
+  ],
+  "BG_VIDEO": [
+    "outis/background_video/1.mp4",
+    "outis/background_video/2.mp4",
+    "outis/background_video/3.mp4"
+  ],
+  "BACKGROUND_MUSIC_COURT": [
+    "outis/audio/court/1.mp3",
+    "outis/audio/court/2.mp3",
+    "outis/audio/court/3.mp3"
+  ],
+  "BACKGROUND_MUSIC_LONG": [
+    "outis/audio/long/1.mp3"
+  ],
+  "YT_NAME_FILE": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "GAMEPLAY_CLIP": [
+    "outis/gameplay/2.mp4"
+  ],
+  "STYLES": [
+    "sérieux"
+  ],
+  "SCOPES": [
+    "https://www.googleapis.com/auth/youtube.upload"
+  ],
+  "CONTENT_FILE_DEFAULT": "{\"vid_name\": 1}",
+  "FONT_PATH": "outis/font/seguiemj.ttf",
+  "NOBEEP_PATH": "outis/audio/nobeep.wav",
+  "BEEP_PATH": "outis/audio/beep.wav",
+  "CONFIG_FILE": "outis/config.txt",
+  "THEMES_FILE": "outis/themes.txt",
+  "MODEL": "gpt-4o-mini",
+  "QUESTION_INTERVAL": 16,
+  "SILENCE_DURATION": 6,
+  "SECS_ENT": 3,
+  "SECS": 10,
+  "CERCLE_COLOR": [
+    [0, 255, 0],
+    [255, 0, 0],
+    [0, 0, 255]
+  ],
+  "PROMPT": "{\n  \"questions\": [\n    \"une question\",\n    \"une autre question\",\n    \"encore une autre\",\n    \"etc jusqu'au nombre demmander\"\n  ],\n  \"reponses\": [\n    \"une reponse\",\n    \"une autre reponse\",\n    \"encore une autre\",\n    \"etc jusqu'au nombre demmander\"\n  ],\n  \"title\": \"Un titre que tu auras choisis\",\n  \"hashtag\": [\n    \"unhashtag\",\n    \"unautrehashtag\",\n    \"encoreunautre\",\n    \"etc...\"\n  ]\n}"
+}
